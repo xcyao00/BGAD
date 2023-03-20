@@ -1,0 +1,13 @@
+tqdm
+numpy
+scipy
+scikit-image
+timm
+scikit-learn
+matplotlib
+tqdm
+imgaug
+albumentations
+torch >= 1.7.0
+torchvision >= 0.8.0
+git+git://github.com/VLL-HD/FrEIA@4e0c6ab42b26ec6e41b1ee2abb1a8b6562752b00
