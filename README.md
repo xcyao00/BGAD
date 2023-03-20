@@ -39,8 +39,8 @@ If you find this repository useful, please consider citing our work:
       title={Explicit Boundary Guided Semi-Push-Pull Contrastive Learning for Supervised Anomaly Detection}, 
       author={Xincheng Yao and Ruoqi Li and Jing Zhang and Jun Sun and Chongyang Zhang},
       year={2023},
-      eprint={2207.01463},
-      archivePrefix={arXiv},
+      booktitle={Conference on Computer Vision and Pattern Recognition 2023},
+      url={https://openreview.net/forum?id=BcZPzTkBSN},
       primaryClass={cs.CV}
 }
 ```
