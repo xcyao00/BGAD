@@ -40,7 +40,7 @@ If you find this repository useful, please consider citing our work:
       author={Xincheng Yao and Ruoqi Li and Jing Zhang and Jun Sun and Chongyang Zhang},
       year={2023},
       booktitle={Conference on Computer Vision and Pattern Recognition 2023},
-      url={https://openreview.net/forum?id=BcZPzTkBSN},
+      url={https://arxiv.org/abs/2207.01463},
       primaryClass={cs.CV}
 }
 ```
