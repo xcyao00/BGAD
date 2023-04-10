@@ -3,7 +3,7 @@
 PyTorch implementation and for CVPR2023 paper, Explicit Boundary Guided Semi-Push-Pull Contrastive Learning for Supervised Anomaly Detection.
 
 
-![BGAD Framework](BGAD-framework.pdf)
+![BGAD Framework](./BGAD-framework.pdf)
 ---
 
 ## Installation
