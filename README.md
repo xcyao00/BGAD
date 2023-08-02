@@ -1,6 +1,6 @@
 ## [Explicit Boundary Guided Semi-Push-Pull Contrastive Learning for Supervised Anomaly Detection](https://arxiv.org/abs/2207.01463)
 
-PyTorch implementation and for CVPR2023 paper, Explicit Boundary Guided Semi-Push-Pull Contrastive Learning for Supervised Anomaly Detection.
+PyTorch implementation for CVPR2023 paper, Explicit Boundary Guided Semi-Push-Pull Contrastive Learning for Supervised Anomaly Detection.
 
 <img src="./BGAD-framework.jpg" width="800">
 
