@@ -51,4 +51,4 @@ If you find this repository useful, please consider citing our work:
 
 This repository is built using the [timm](https://github.com/rwightman/pytorch-image-models) library, the [CFLOW](https://github.com/gudovskiy/cflow-ad) repository and the [FrEIA](https://github.com/VLL-HD/FrEIA) repository.
 
-If you are interested in our work, you can also follow our other works: [PMAD (AAAI2023)](https://github.com/xcyao00/PMAD), [FOD (ICCV2023)](https://github.com/xcyao00/FOD), [HGAD (ECCV2024)](https://github.com/xcyao00/HGAD), [ResAD (NeurIPS2024)](https://github.com/xcyao00/ResAD). Or, you can follow our github page [xcyao00](https://github.com/xcyao00).
+If you are interested in our work, you can also see our other works: [PMAD (AAAI2023)](https://github.com/xcyao00/PMAD), [FOD (ICCV2023)](https://github.com/xcyao00/FOD), [HGAD (ECCV2024)](https://github.com/xcyao00/HGAD), [ResAD (NeurIPS2024)](https://github.com/xcyao00/ResAD), [ADPretrain (NeurIPS2025)](https://github.com/xcyao00/ADPretrain), [MMR-AD (CVPR2026)](https://xcyao00.github.io/MMR-AD). Or, you can follow our github page [xcyao00](https://github.com/xcyao00).
