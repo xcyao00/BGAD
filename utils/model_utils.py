@@ -40,7 +40,7 @@ def save_weights(encoder, decoders, output_dir, exp_name, model_path):
 
 def load_weights(encoder, decoders, filename):
     #path = os.path.join(WEIGHT_DIR, filename)
-    state = torch.load(filename)
+    state = torch.load(filename, weights_only=True)
     encoder.load_state_dict(state['encoder_state_dict'], strict=False)
     decoders = [decoder.load_state_dict(state, strict=False) for decoder, state in zip(decoders, state['decoder_state_dict'])]
     print('Loading weights from {}'.format(filename))
